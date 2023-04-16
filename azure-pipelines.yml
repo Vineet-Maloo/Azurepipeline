@@ -29,4 +29,4 @@ steps:
     containerRegistry: 'Azuredevops-demo'
     repository: 'Aitorch'
     command: 'buildAndPush'
-    Dockerfile: '**/Dockerfile'
+    Dockerfile: '**/AzureDockerfile'
